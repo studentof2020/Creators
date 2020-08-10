@@ -1,0 +1,58 @@
+<html>
+<head>
+    <title>
+    </title>
+    <link rel="stylesheet" type="text/css" href="css/twoindex.css">
+    <style>
+        #flask1 {
+            position: fixed;
+            left: 200px;
+            top: 250px;
+            display: none;
+        }
+        #flask2 {
+            position: fixed;
+            left: 200px;
+            top: 250px;
+            display: none;
+        }
+        #flask3 {
+            position: fixed;
+            left: 200px;
+            top: 250px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div style="border: 5px solid red; height: 600px; width: 1150px">
+    <img src="images/testtube.png" id="flask" height="280px" width="100px">
+    <img src="images/t1.png" id="flask1" height="280px" width="100px">
+    <img src="images/t2.png" id="flask2" height="280px" width="100px">
+    <img src="images/t3.png" id="flask3" height="280px" width="100px">
+    <img src="images/pinkflask.jpeg" id="solid" height="200px" width="200px">
+    <img src="images/nh4no3.jpeg" id="dilnaoh" height="220px" width="150px">
+    <img src="images/k4fecn6.jpeg" id="waterbottle" height="220px" width="150px">
+    <img src="images/dropper.png" id="dropper" height="180px" width="35px">
+
+    <div id="div1">
+        <button id="p1">Dip Dropper</button>
+        <button id="p2" onclick="document.getElementById('flask1').style.display='block'">Pour in Test Tube</button>
+        <button id="p3" >Add NH<sub>4</sub>NO<sub>3</sub></button>
+        <button id="p4" onclick="document.getElementById('flask2').style.display='block'">Pour NH<sub>4</sub>NO<sub>3</sub></button>
+        <button id="p5">Add K<sub>4</sub>Fe(CN)<sub>6</sub></button>
+        <button id="p6" onclick="document.getElementById('flask3').style.display='block'">Pour K<sub>4</sub>Fe(CN)<sub>6</sub></button>
+        <button onclick="document.getElementById('id02').style.display='block'">Next</button>
+    </div>
+
+
+    <div id="id01"><h4>Add solution to test tube using dropper then add K4FeCN6 and NH4NO3</h4></div>
+
+    <div id="id02" style="display: none;">
+          <h4>Well Done!!!!!!  Solution is now ready in test tube.  <a href="63.html">Click here to move to caloriemeter setup</a></h4>
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+    <script src="js/twoindex.js"></script>
+</html>

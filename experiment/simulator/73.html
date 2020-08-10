@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>
+    </title>
+    <link rel="stylesheet" type="text/css" href="css/threeindex.css">
+</head>
+<body>
+    <div style="border: 5px solid red; height: 600px; width: 1150px">
+    <img src="images/calmeter.png" id="calmeter" height="400px" width="470px">
+    <img src="images/t3.png" id="testtube" height="240px" width="50px">
+
+    <div id="div1">
+        <button id="p1" onclick="document.getElementById('id03').style.display='block'">Power ON</button>
+        <button id="p2" onclick="document.getElementById('id04').style.display='block'">Set Wavelength</button>
+        <button id="p3">Place Test Tube</button>
+        <button id="p4"onclick="document.getElementById('see').style.display='block'">See Reading</sub></button>
+        <button onclick="document.getElementById('id02').style.display='block'">Next</button>
+    </div>
+
+
+    <div id="id01" style="margin-left: 400px;"><h4>Switch Power ON and set the wavelength to 480nm.  Then place test tube in spectrocalorimeter and press see reading to get value. </h4></div>
+
+    <div id="id02" style="display: none;margin-left: 400px;">
+          <h4>CONGRATULATIONS you completed experiment for all volumes ranging from 1 to 7 ml. <a href="obsr.html">Click here to display observation table.</a></h4>
+    </div>
+<div id="id03" style="background-color: red; height: 15px;width: 20px;"></div>
+<p id="id04">480</p>
+<p id="see">0.7</p>
+</body>
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+    <script src="js/threeindex.js"></script>
+</html>
