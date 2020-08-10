@@ -6,9 +6,9 @@
 <b> Determination of copper by Spectrocolorimeter.<a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Environmental Engineering
+<b>Discipline | <b>chemical science
 :--|:--| 
-<b> Lab | <b> Environmental Engineering Lab.
+<b> Lab | <b> chemistry Lab.
 <b> Experiment| <b> Determination of copper by Spectrocolorimeter.
 
 
