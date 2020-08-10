@@ -1,16 +1,16 @@
 ## Introduction (Round 0)
-<b>Discipline | <b>Environmental  Engineering
+<b>Discipline | <b>chemical science
 :--|:--|
-<b> Lab | <b> Determination of copper by Spectrocolorimetry, Determination of Iron by using Potentiometer.
-<b> Experiment|     <b> 1.Determination of copper by Spectrocolorimetry, 2.Determination of Iron by using Potentiometer.
+<b> Lab | <b> chemistry lab
+<b> Experiment|     <b> Determination of copper by Spectrocolorimetry.
 <h5> About the Lab (Objective) : </h5>
-The objective of this lab to determine the amount of iron present in given solution.
+The objective of this lab to determine the concentration of copper in given solution.
 <h5> About the Experiment: </h5>
-The experiment is based on the method of Spectrocolorimetry.
+This experiment is about calculation of copper concentration by Spectrocolorimeter.
 <h5> Target Audience: </h5>
-The experiment  is design for intermediate and college students who opt to study chemistry.
+ UG .
 <h5> Course Alignment: </h5>
-Environmental Engineering
+The experiment is design for first year UG students of the university
 <h5> Universities Mapped : </h5>
 AKTU
 <b>Name of Developer | <b> Manoj Kumar Yadava
