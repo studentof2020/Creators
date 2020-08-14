@@ -34,5 +34,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 1 | Manoj Kumar Yadava | Faculty | Applied Science and Humanities | Rajkiya Engineering College Banda, Banda | manojyadava16@gmail.com
 2 | Nitish Kumar | Student | Mechanical Engineering| Rajkiya Engineering College Banda, Banda |nitishkumar29400@gmail.com
 3 | Amitabh Shahi | Student | Information technology | Rajkiya Engineering College Banda, Banda |amitabhshahi09@gmail.com
-4 | Akash Singh | Student | Information technology | Rajkiya Engineering College Banda, Banda |1907340130009@recbanda.ac.in
+4 | Pranjul Purwar | Student |  Information technology | Rajkiya Engineering College Banda, Banda |pranjulpurwar7@gmail.com
 5 | Akash Sachan | Student | Information technology | Rajkiya Engineering College Banda, Banda |akashsachanboss@gmail.com
