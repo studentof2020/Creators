@@ -1,6 +1,5 @@
 <p><b>Procedure</b></p>
 <p>Start the simulator by clicking on the green arrow, which is provided in the right corner at bottom of simulator.<br>
-
 Click on the beaker of CuSO4 to add and pour it into conical flask.<br>
 then add 40ml water in the flask after that add few drops of conc.H2SO4 in that conical flask.<br>
 Click on the green arrow to proceed further step.<br>
