@@ -1,7 +1,7 @@
 ## Introduction (Round 0)
-<b>Discipline | <b>chemical science
+<b>Discipline | <b>Civil Engineering 
 :--|:--|
-<b> Lab | <b> chemistry lab
+<b> Lab | <b> Enviromental Engineering lab
 <b> Experiment|     <b> Determination of copper by Spectrocolorimetry.
 <h5> About the Lab (Objective) : </h5>
 The objective of this lab to determine the concentration of copper in given solution.
