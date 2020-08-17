@@ -26,8 +26,8 @@ Fig.<img src="images\img1.png" alt="start" width="900" height="600">
 **C.** There will be add and pour method for taking sample in test tube by clicking on the bottles. Then user will press arrow for spectrocalorimeter set up.<br>
 **D.** now there will be button for power on , placing test tube on spectrocalorimeter, setting wavelength, and see reading.<br>
 **E.** Once the reading of optical densities for all the four samples are noted. Simulator will display table.<br>
-**F.** user will fill all the reading of optical densities then plot the calibrated graph will display <br>
-**G.** now there will be “show result” button which will display the result of the experiment.</b> <br>
+**F.** user will fill all the reading of optical densities.  <br>
+**G.** Then click on "plot graph" to get the calibrated graph.</b> <br>
 <p>2.4 Set challenges and question/complexity/variation in question</p>
 <p>Q1:  What is the formula of absorbance?<br>  
       answers:<br> 
