@@ -1,7 +1,7 @@
 Round 2:
 **1. Story outline**
 
-This experiment is about determining copper concentration in a given water. It involves preparing solution by adding 0.2 g of CuSO4 into a 100 ml SMF and made upto the mark using distilled water. A drop of concentrated H2SO4 is added to prevent precipitation of Cu(OH)2. This solution is approximately diluted to 10 times in a 100 ml SMF. 1 ml of this solution is taken in a test tube. 5 ml of 10% NH4NO3 and 1 ml of 4% K4[Fe(CN)6] are added and made up to 15 ml. The optical density of this solution is measured using a spectrocolorimeter after fixing maximum wavelength at 480 nm. Similar measurements are made with 2, 3, 4, 5, 6 and 7 ml of standard CuSO4 solution and the calibration line is obtained. From the calibration line, the amount of copper (II) present in the unknown is determined using its optical density. 
+This experiment is about determining copper concentration in a given water. It involves preparing solution by adding 0.2 g of CuSO4 into a 100 ml SMF and made upto the mark using distilled water. A drop of concentrated H2SO4 is added to prevent precipitation of Cu(OH)2. This solution is approximately diluted to 10 times in a 100 ml SMF. 2.5 ml of this solution is taken in a test tube. 5 ml of 10% NH4NO3 and 1 ml of 4% K4[Fe(CN)6] are added and made up to 15 ml. The optical density of this solution is measured using a spectrocolorimeter after fixing maximum wavelength at 480 nm. Similar measurements are made with 5.0, 7.5 and 10 ml of standard CuSO4 solution and the calibration line is obtained. From the calibration line, the amount of copper (II) present in the unknown is determined using its optical density. 
 </b> <br>
 **2. Story**
 
@@ -9,7 +9,7 @@ This experiment is about determining copper concentration in a given water. It i
 
 **A.** preparing the standard solution:
 The set up of the experiment consist of spectrocalorimeter, beaker, test tube, pipette, etc .
-While preparing the standard solution, 0.2 g of CuSO4 into a 100 ml SMF and made upto the mark using distilled water. A drop of concentrated H2SO4 is added to prevent precipitation of Cu(OH)2. This solution is approximately diluted to 10 times in a 100 ml SMF. 1 ml of this solution is taken in a test tube. 5 ml of 10% NH4NO3 and 1 ml of 4% K4[Fe(CN)6] are added and made up to 15 ml
+While preparing the standard solution, 0.2 g of CuSO4 into a 100 ml SMF and made upto the mark using distilled water. A drop of concentrated H2SO4 is added to prevent precipitation of Cu(OH)2. This solution is approximately diluted to 10 times in a 100 ml SMF. 2.5 ml of this solution is taken in a test tube. 5 ml of 10% NH4NO3 and 1 ml of 4% K4[Fe(CN)6] are added and made up to 15 ml
 Fig.<img src="1.png" alt="start">  
 
 
@@ -21,11 +21,11 @@ Fig.<img src="1.png" alt="start">
  **D.** To provide virtual practice of operating spectrocalorimeter.</b> <br>
 
 **2.3 Set the Pathway Activities**
-**A.** There will be red button to start the simulator. The set up of the experiment consist of spectrocalorimeter, beaker, test tube, pipette, etc. will display by the simulator.<br>
-**B.** There will be button to add the reagents to prepare standard solution. After preparing standard solution the next button will take over to the next set up.<br>
-**C.** There will be button for taking sample in test tube. Then user will press next for spectrocalorimeter set up.<br>
+**A.** There will be a green arrow button to start the simulator. The set up of the experiment consist of spectrocalorimeter, beaker, test tube, pipette, etc. will display by the simulator.<br>
+**B.** There will be add and pour method to add the reagents to prepare standard solution. After preparing standard solution the arrow button will take over to the next set up.<br>
+**C.** There will be add and pour method for taking sample in test tube by clicking on the bottles. Then user will press arrow for spectrocalorimeter set up.<br>
 **D.** now there will be button for power on , placing test tube on spectrocalorimeter, setting wavelength, and see reading.<br>
-**E.** Once the reading of optical densities for all the seven samples are noted. Simulator will display table.<br>
+**E.** Once the reading of optical densities for all the four samples are noted. Simulator will display table.<br>
 **F.** user will fill all the reading of optical densities then plot the calibrated graph will display <br>
 **G.** now there will be “show result” button which will display the result of the experiment.</b> <br>
 <p>2.4 Set challenges and question/complexity/variation in question</p>
