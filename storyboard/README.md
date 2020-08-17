@@ -43,29 +43,24 @@ Fig.<img src="1.png" alt="start">
         a:  420 nm  <br>                
         b:  500 nm <br>                 
         c:  480 nm <br>                 
-        d:  400 nm <br><br></p>           
-      
-               
-                       
-    
-      <p>Q3:  The optical density is linearly proportional to_______? <br>
+        d:  400 nm <br><br></p> 
+        
+   <p>Q3:  The optical density is linearly proportional to_______? <br>
       answers: <br>
         a:  wavelength  <br>                
         b:  concentration<br>                  
         c:  weight  <br>             
-        d:  absorbance  <br><br>  </p>               
-      
-      
-    
+        d:  absorbance  <br><br>  </p>
         
-     <p> Q4:  The graph is plotted between? <br>
+    <p> Q4:  The graph is plotted between? <br>
       answers: <br>
         a:  wavelength vs concentration <br>               
         b:  absorbance vs wavelength   <br>               
         c:  wavelength vs optical density  <br>              
-        d:  absorbance vs concentration<br> <br> </p>                 
+        d:  absorbance vs concentration<br> <br> </p> 
       
-      
+   
+   
   2.5 Allow pitfalls:**
 
 This pitfall does not mean wrong answer and retrying . It is designed to clear misconceptions or incorrect knowledge .
