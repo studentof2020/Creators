@@ -10,7 +10,7 @@ b:to dilute solution<br>
 c:to dissolve CuSO4<br>
 d:None of these<br></p>
 
-<p>Q2: What is the maximum wavelength to be fixed in spectrocolorimeter?  <br>		
+<p>Q3: What is the maximum wavelength to be fixed in spectrocolorimeter?  <br>		
 		a:  420 nm<br>                  
         b:  500 nm<br>                  
         c:  <b>480 nm</b><br>                  
