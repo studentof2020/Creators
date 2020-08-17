@@ -9,13 +9,21 @@ a:<b>to prevent precipitation of CuSO4</b><br>
 b:to dilute solution<br>
 c:to dissolve CuSO4<br>
 d:None of these<br></p>
-<p>Q3.What is the chemical name of K4[Fe(CN)6]?.<br>
-a:potassium ferricynaide<br>
-b:potassium ferroferricyanide<br>
-c:<b>potassium ferrocyanide</b><br>
-d:potassium ferriferrocyanide<br></p>
-<p>Q4.What is the chemical name of  NH4NO3?.<br>
-a:ammonium nitrite<br>
-b:<b>ammonium nitrate</b><br>
-c:ammoniun trioxynitrogen<br>
-d:None of the above <br></p>
+
+<p>Q2: What is the maximum wavelength to be fixed in spectrocolorimeter?  <br>		
+		a:  420 nm<br>                  
+        b:  500 nm<br>                  
+        c:  <b>480 nm</b><br>                  
+        d:  400 nm<br><br> </p>
+		
+<p>Q4: The graph is plotted between?<br>  
+        a:  wavelength vs concentration<br>                  
+        b:  absorbance vs wavelength<br>                  
+        c:  wavelength vs optical density<br>                  
+        d: <b>absorbance vs concentration</b><br><br></p>	
+
+<p>Q5: What is the average density of opticla density?<br>
+        a:  0.350<br>                  
+        b:  0.414<br>                  
+        c:  <b>0.275</b><br>                  
+        d:  0.280<br><br> </p>
