@@ -11,7 +11,7 @@ c:to dissolve CuSO4<br>
 d:None of these<br></p>
 
 <p>Q3: What is the maximum wavelength to be fixed in spectrocolorimeter?  <br>		
-		a:  420 nm<br>                  
+	a:  420 nm<br>                  
         b:  500 nm<br>                  
         c:  <b>480 nm</b><br>                  
         d:  400 nm<br><br> </p>
@@ -22,7 +22,7 @@ d:None of these<br></p>
         c:  wavelength vs optical density<br>                  
         d: <b>absorbance vs concentration</b><br><br></p>	
 
-<p>Q5: What is the average  of optical density?<br>
+<p>Q5: What is the average  of optical density obtained in the experiment?<br>
         a:  0.350<br>                  
         b:  0.414<br>                  
         c:  <b>0.275</b><br>                  
