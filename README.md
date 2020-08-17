@@ -1,5 +1,5 @@
 ## Introduction (Round 0)
-<b>Discipline | <b>Civil Engineering 
+<b>Discipline | <b>Chemical Engineering 
 :--|:--|
 <b> Lab | <b> Environmental Engineering lab
 <b> Experiment|     <b> Determination of copper by Spectrocolorimetry.
