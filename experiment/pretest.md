@@ -1,32 +1,25 @@
-## <b> Pre-test
-#### Please attempt the following questions
+<p><b>Pre-test</b></p>
+<p>Q1:  What is the formula of absorbance? <br> 
+        a: <b> A=log(I./I)</b><br>                   
+        b:  A=log(e./e)<br>                   
+        c:  A=log(b/a) <br>                 
+        d:  None of the above<br><br> </p>
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
+<p>Q2:  The optical density is linearly proportional to_______?<br> 
+        a:  wavelength<br>                  
+        b:  <b>concentration</b><br>                  
+        c:  weight<br>                
+        d:  absorbance<br><br></p>
 
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
 
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
+<p>Q3.What is the chemical name of K4[Fe(CN)6]?.<br>
+a:potassium ferricynaide<br>
+b:potassium ferroferricyanide<br>
+c:<b>potassium ferrocyanide</b><br>
+d:potassium ferriferrocyanide<br></p>
 
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
-
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
+<p>Q4.What is the chemical name of  NH4NO3?.<br>
+a:ammonium nitrite<br>
+b:<b>ammonium nitrate</b><br>
+c:ammoniun trioxynitrogen<br>
+d:None of the above <br></p>
