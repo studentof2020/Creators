@@ -23,7 +23,7 @@ d:None of these<br></p>
         c:  wavelength vs optical density<br>                  
         d: <b>absorbance vs concentration</b><br><br></p>	
 
-<p>Q5: What is the average density of opticla density?<br>
+<p>Q5: What is the average density of optical density?<br>
         a:  0.350<br>                  
         b:  0.414<br>                  
         c:  <b>0.275</b><br>                  
