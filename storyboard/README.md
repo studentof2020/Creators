@@ -28,8 +28,8 @@ Fig.<img src="images\img1.png" alt="start" width="900" height="600">
 **E.** Once the reading of optical densities for all the four samples are noted. Simulator will display table.<br>
 **F.** user will fill all the reading of optical densities.  <br>
 **G.** Then click on "plot graph" to get the calibrated graph.</b> <br>
-**H.** The strength of copper is 4gm/lit.
-**I.** Then enter the corresponding value of mean optical density to get concentration of copper present in solution.  
+**H.** The strength of copper is 4gm/lit.<br>
+**I.** Then take the corresponding value of mean optical density to calculate the concentration of copper present in solution.  
 <p>2.4 Set challenges and question/complexity/variation in question</p>
 <p>Q1:  What is the formula of absorbance?<br>  
       answers:<br> 
