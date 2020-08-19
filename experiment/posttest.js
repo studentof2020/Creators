@@ -135,7 +135,7 @@
     
     
 {
-      question: " What is the average density of opticla density?",  ///// Write the question inside double quotes
+      question: " What is the average density of optical density?",  ///// Write the question inside double quotes
       answers: {
         a: " 0.350 ",                  ///// Write the option 1 inside double quotes
         b: "0.414",                  ///// Write the option 2 inside double quotes
