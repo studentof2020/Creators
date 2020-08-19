@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<title>Page Title</title>
 </head>
 <body>
 
@@ -27,11 +27,13 @@ curve.</p>
 <p>0.2 g of CuSO4 is weighed accurately in a chemical balance transferred into a 100 ml
 SMF and made upto the mark using distilled water. A drop of concentrated H2SO4 is added to
 prevent precipitation of Cu(OH)2. This solution is approximately diluted to 10 times in a 100
-ml SMF.2.5ml of solution is taken in a test tube . 5 ml of 10% NH4NO3 and 1 ml of 4%
+ml SMF. 1 ml of this solution is taken in a test tube. 5 ml of 10% NH4NO3 and 1 ml of 4%
 K4[Fe(CN)6] are added and made up to 15 ml. The optical density of this solution is
 measured using a spectrocolorimeter after fixing maximum wavelength at 480 nm. Similar
-measurements are made with 5.0, 7.5 and 10 ml of standard CuSO4 solution and 
-the calibration line is obtained. From the calibration line, the amount of copper (II) present in the unknown is determined using its optical density.</p>
+measurements are made with 2, 3, 4, 5, 6 and 7 ml of standard CuSO4 solution and the 
+
+calibration line is obtained. From the calibration line, the amount of copper (II) present in the
+unknown is determined using its optical density.</p>
 
 
 </body>
