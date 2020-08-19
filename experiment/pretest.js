@@ -101,21 +101,9 @@
     },
 
     {
-     question: " What is the maximum wavelength to be fixed in spectrocolorimeter?",  ///// Write the question inside double quotes
-      answers: {
-        a: "420 nm",                  ///// Write the option 1 inside double quotes
-        b: "500 nm",                  ///// Write the option 2 inside double quotes
-        c: "480 nm",                  ///// Write the option 3 inside double quotes
-        d: "400 nm"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
-
-{
      question: " The optical density is linearly proportional to_______?",  ///// Write the question inside double quotes
       answers: {
-        a: "wavelength",                  ///// Write the option 1 inside double quotes
+        a: "wavelength ",                  ///// Write the option 1 inside double quotes
         b: "concentration",                  ///// Write the option 2 inside double quotes
         c: "weight",                  ///// Write the option 3 inside double quotes
         d: "absorbance"                   ///// Write the option 4 inside double quotes
@@ -123,15 +111,27 @@
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
+
 {
-     question: " The graph is plotted between?",  ///// Write the question inside double quotes
+     question: " What is the chemical name of K4[Fe(CN)6]",  ///// Write the question inside double quotes
       answers: {
-        a: "wavelength vs concentration",                  ///// Write the option 1 inside double quotes
-        b: "absorbance vs wavelength",                  ///// Write the option 2 inside double quotes
-        c: "wavelength vs optical density",                  ///// Write the option 3 inside double quotes
-        d: "absorbance vs concentration"                   ///// Write the option 4 inside double quotes
+        a: "potassium ferricynaide",                  ///// Write the option 1 inside double quotes
+        b: "potassium ferroferricyanide",                  ///// Write the option 2 inside double quotes
+        c: "potassium ferrocyanide",                  ///// Write the option 3 inside double quotes
+        d: "potassium ferriferrocyanide"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    									                  ///// this line
+{
+     question: " What is the chemical name of  NH4NO3?",  ///// Write the question inside double quotes
+      answers: {
+        a: "ammonium nitrite",                  ///// Write the option 1 inside double quotes
+        b: "ammonium nitrate",                  ///// Write the option 2 inside double quotes
+        c: "ammoniun trioxynitrogen",                  ///// Write the option 3 inside double quotes
+        d: "None of the above "                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
