@@ -4,7 +4,8 @@
  Click on the beaker to add and pour CuSO4.<br>
   Then click on the beaker  of water to add it and then click on conc.H2SO4.<br>
   Click on the arrow to proceed for next step.<br>
-  Take 2.5 ml of solution through dropper and pour it into conical flask then add K4[Fe(CN)6], NH4NO3 by clicking on the bottle.<br>
+  Take 2.5 ml of solution through dropper and pour it into test tube then add K4[Fe(CN)6] by add and pour method.<br>
+ Add NH4NO3 by clicking on the bottle.<br>
   Now, required solution is prepared and ready to measure its optical density.<br>
   Click on the arrow to proceed for next step.<br>
   Turn on the spectrocolimeter by clocking on the <b>"power on"</b> button.<br> 
