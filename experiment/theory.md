@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title><h2>Theory:</h2></title>
+<title>page title</h2></title>
 </head>
 <body>
 
