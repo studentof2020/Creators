@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "Determination of copper by Spectrocolorimetry",     
+			"Lab": "Environmental Engineering lab",               
+			"Discipline": "Civil Engineering",				 
+			"Technology": "HTML, CSS, JS"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Er. Manoj Kumar Yadava",         
+      "Institute": "Rajkiya Engineering College Banda, Banda",         
+      "InstituteAcronym": "RECB"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Nitish Kumar",             
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Amitabh Shahi",              
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Pranjul Purwar",             
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Akash Sachan",              
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
        }
    ]
 
