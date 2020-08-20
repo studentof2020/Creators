@@ -31,7 +31,6 @@ ml SMF. 2.5 ml of this solution is taken in a test tube. 5 ml of 10% NH4NO3 and 
 K4[Fe(CN)6] are added and made up to 15 ml. The optical density of this solution is
 measured using a spectrocolorimeter after fixing maximum wavelength at 480 nm. Similar
 measurements are made with 5.0, 7.5 and 10 ml of standard CuSO4 solution and the 
-
 calibration line is obtained. From the calibration line, the amount of copper (II) present in the
 unknown is determined using its optical density.</p>
 
