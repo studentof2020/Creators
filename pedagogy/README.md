@@ -56,7 +56,7 @@ Question will be asked during the experiment to make the user accustomed to the 
 <hr>
 
 <a name="AQ"></a>
-# 4. Task & Assessment Questions:
+#### 4. Task & Assessment Questions:
 <br>
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student in the simulator | Assessment Questions as per LO & Task
@@ -66,7 +66,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student in the si
 3.| Students will be able to Apply the experimental conditions by placing sample and setting maximum wavelength in spectro calorimeter. | Student has to place the sample and set the maximum wavelength in spectrocolorimeter. | What  is the maximum wavelenght at which experiment is being performed? <br> A 48 nm <br> B 480 mm <br> C 480 nm <br> D. none of the above.
 4.| Student will able to perform experiment and record the reading for further calculation| Student will use the spectrocolorimeter and record the reading.  |  What is the mean of the optical densities of all the samples ? <br> A. 0.275 <br> B. 0.32 <br> C. 0.5 <br>  D. 1.0  <br>
 5.| Students will be able to sketch the calibration graph. | Student has to press the "plot graph" button . |  Is the plotted graph is straight line? (Yes/No).
-6.| Students will be able to determine the concentration of copper in water sample. | Student has to press on "show result" button. |Choose the correct formula? <br> A. x(calculated from graph) X wt. of Cu/wt. of CuSO4 <br> <b>B. x(calculated from graph) X wt. of Cu/wt. of CuSO4.5H2O?</b> <br>
+6.| Students will be able to determine the concentration of copper in water sample. | Student has to press on "show result" button. |Choose the correct formula? <br> A. x(calculated from graph) X wt. of Cu/wt. of CuSO4 <br> B. x(calculated from graph) X wt. of Cu/wt. of CuSO4.5H2O? <br>
  
 
 
